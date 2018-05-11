@@ -1,0 +1,31 @@
+{
+  "name": "benschli/cookienotice",
+  "description": "Cookie Notice extension",
+  "type": "silverstripe-vendormodule",
+  "homepage": "http://github.com/fractaslabs/silverstripe-cookie-policy-notification",
+  "keywords": ["silverstripe", "cookie", "cookie policy", "notification", "cookie policy notification"],
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "Ben Lillard",
+      "email": "contact@benlillard.com"
+    }
+  ],
+  "require": {
+    "silverstripe/cms": "^4.0",
+    "silverstripe/framework": "^4.0",
+    "silverstripe/vendor-plugin": "^1.0"
+  },
+  "extra": {
+    "expose": [
+      "client/dist"
+    ]
+  },
+  "autoload": {
+    "psr-4": {
+      "Benschli\\CookieNotice\\": "src/"
+    }
+  }
+}

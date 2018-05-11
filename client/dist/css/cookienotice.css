@@ -1,0 +1,9 @@
+#CookieNotice {
+  background: red;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  color: white;
+  z-index: 9999; }
+
+/*# sourceMappingURL=cookienotice.css.map */

@@ -1,0 +1,12 @@
+---
+Name: cookienotice-settings
+---
+Page:
+  extensions:
+    - Benschli\CookieNotice\CookieNoticeSiteTreeExtension
+PageController:
+  extensions:
+    - Benschli\CookieNotice\CookieNoticeControllerExtension
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - Benschli\CookieNotice\CookieNoticeSiteConfig

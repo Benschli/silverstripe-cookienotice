@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,aAAc;EACZ,UAAU,EAAE,GAAG;EACf,KAAK,EAAE,IAAI;EACX,QAAQ,EAAE,KAAK;EACf,MAAM,EAAE,CAAC;EACT,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,IAAI",
+"sources": ["../scss/cookienotice.scss"],
+"names": [],
+"file": "cookienotice.css"
+}
