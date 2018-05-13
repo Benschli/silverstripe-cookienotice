@@ -4,7 +4,6 @@
 
 $( document ).ready(function() {
     $('#CookieNotice button').on('click', function() {
-        // var url = $('#CookieNotice').attr('data-link');
         var url = '/home/CookieNoticeAccept';
         $.ajax({
             type: "POST",

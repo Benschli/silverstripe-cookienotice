@@ -1,4 +1,4 @@
-<div id="CookieNotice" class="$SiteConfig.CookieNoticePosition" data-link="{$Link}CookieNoticeAccept">
+<div id="CookieNotice" class="$SiteConfig.CookieNoticePosition">
     $SiteConfig.CookieNoticeDescription
     <button>$SiteConfig.CookieNoticeButtonTitle</button>
 </div>
